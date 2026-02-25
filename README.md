@@ -117,4 +117,4 @@ suggest_accessible_color({
 
 ## License
 
-MIT
+Apache-2.0
